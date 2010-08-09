@@ -4,6 +4,7 @@ from django.conf.urls.defaults import *
 # from django.contrib import admin
 # admin.autodiscover()
 #noam
+# now what?
 urlpatterns = patterns('',
     # Example:
     # (r'^noam2/', include('noam2.foo.urls')),
