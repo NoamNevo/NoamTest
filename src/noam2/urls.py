@@ -3,7 +3,7 @@ from django.conf.urls.defaults import *
 # Uncomment the next two lines to enable the admin:
 # from django.contrib import admin
 # admin.autodiscover()
-
+#noam
 urlpatterns = patterns('',
     # Example:
     # (r'^noam2/', include('noam2.foo.urls')),
