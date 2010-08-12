@@ -5,6 +5,7 @@ from django.conf.urls.defaults import *
 # admin.autodiscover()
 #noam, web again
 # now what?
+# i want this change to be in thr web
 urlpatterns = patterns('',
     # Example:
     # (r'^noam2/', include('noam2.foo.urls')),
